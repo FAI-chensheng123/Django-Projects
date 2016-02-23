@@ -1,0 +1,15 @@
+
+1. Products
+	--> Single Product (detail View)
+	--> List Product
+	--> Inventory Control + Viewable
+	--> Search Products
+
+
+2. Checkout
+	--> Cart (shopping cart)
+	--> Auth User & Guest User (non--auth)
+	--> Shipping & Billing Address
+
+3. Payment
+	--> Integration with Briantree (steps on other integrations)
